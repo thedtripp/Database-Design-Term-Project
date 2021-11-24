@@ -1,1 +1,1 @@
-# Database-Design-Term-Project
+# Database Design Term Project
