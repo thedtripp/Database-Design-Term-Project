@@ -11,7 +11,7 @@
 
 ## **Project Description**
 
-Designed a database to track airline related information.
+Designed a database to track air travel related information.
 Created full implementation of database in PostgreSQL with SQL.
 
 ## **Relation Scheme**
