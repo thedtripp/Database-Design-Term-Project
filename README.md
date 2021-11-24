@@ -12,7 +12,7 @@
 ## **Project Description**
 
 Designed a database to track airline related information.
-Created full implementation of database in Apache Derby with SQL.
+Created full implementation of database in PostgreSQL with SQL.
 
 ## **Relation Scheme**
 [Back to top](#database-design-term-project)
