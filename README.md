@@ -25,6 +25,7 @@ Created full implementation of database in PostgreSQL with SQL.
 ![UML_Diagram](https://user-images.githubusercontent.com/38776199/143190119-1300473a-6df8-4dbe-b03c-34883c54a30a.jpeg)
 
 ## **How to Use it**
+[Back to top](#database-design-term-project)
 
 - Clone the repository to your local machine and change to the directory.
   - $ `git clone https://github.com/thedtripp/Database-Design-Term-Project.git`
