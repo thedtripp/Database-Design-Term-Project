@@ -2,6 +2,7 @@
 
 ## Contents
 * [Project Description](#project-description)
+  * [How to Use it](#how-to-use-it)
 * [UML Diagram](#uml-diagram)
 * [Relation Scheme](#relation-scheme)
 * [Enterprise Details](#enterprise-details)
@@ -10,6 +11,20 @@
 
 Designed a database to track airline related information.
 Created full implementation of database in Apache Derby with SQL.
+
+### **How to Use it**
+
+- Clone the repository to your local machine and change to the directory.
+  - $ `git clone https://github.com/thedtripp/Database-Design-Term-Project.git`
+  - $ `cd ./Database-Design-Term-Project`
+- Create your database.
+- Run the SQL files in the following order.
+  - Data definition language (DDL):
+  - $ `./create_table.sql`
+  - Data modification language (DML):
+  - $ `./final_dml.sql`
+  - Test queries:
+  - $ `./queries.sql`
 
 ## **UML Diagram**
 [Back to top](#database-design-term-project)
