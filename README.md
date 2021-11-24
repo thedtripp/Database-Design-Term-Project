@@ -1,4 +1,4 @@
-# Database Design Term Project
+# **Database Design Term Project**
 
 ## Contents
 * [Project Description](#project-description)
@@ -21,9 +21,11 @@ Modeled this enterprise using the information supplied below:
 - Support generation of an Incident report - this allows a flight crew employee to file a report related to any type of incident that occurred on a flight.
 
 ## **UML Diagram**
+* [Back to top](#database-design-term-project)
 
 ![UML_Diagram](https://user-images.githubusercontent.com/38776199/143190119-1300473a-6df8-4dbe-b03c-34883c54a30a.jpeg)
 
 ## **Relation Scheme**
+* [Back to top](#database-design-term-project)
 
 ![Relation_Scheme FINAL](https://user-images.githubusercontent.com/38776199/143190147-9ab7dc03-d41c-434e-ba27-3aabbe571d8f.jpeg)
