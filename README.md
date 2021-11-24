@@ -4,11 +4,24 @@
 * [Project Description](#project-description)
 * [UML Diagram](#uml-diagram)
 * [Relation Scheme](#relation-scheme)
+* [Enterprise Details](#enterprise-details)
 
 ## **Project Description**
 
 Designed a database to track airline related information.
-Modeled this enterprise using the information supplied below:
+Created full implementation of database in Apache Derby with SQL.
+
+## **UML Diagram**
+[Back to top](#database-design-term-project)
+
+![UML_Diagram](https://user-images.githubusercontent.com/38776199/143190119-1300473a-6df8-4dbe-b03c-34883c54a30a.jpeg)
+
+## **Relation Scheme**
+[Back to top](#database-design-term-project)
+
+![Relation_Scheme FINAL](https://user-images.githubusercontent.com/38776199/143190147-9ab7dc03-d41c-434e-ba27-3aabbe571d8f.jpeg)
+
+## **Enterprise Details**
 
 - An airline can fly into and out of many airports. Each airline has a name and is headquartered in one particular city. 
 - An airline can own any number of planes. These planes are made by a specific manufacturer with a specific model number (ex. Boeing 747) and hold a set number of passengers.
@@ -20,12 +33,3 @@ Modeled this enterprise using the information supplied below:
 - With the rising cost of gasoline, some airlines are now charging for water, pillows and blankets, and checking bags on a per flight basis on local or domestic flight. 
 - Support generation of an Incident report - this allows a flight crew employee to file a report related to any type of incident that occurred on a flight.
 
-## **UML Diagram**
-[Back to top](#database-design-term-project)
-
-![UML_Diagram](https://user-images.githubusercontent.com/38776199/143190119-1300473a-6df8-4dbe-b03c-34883c54a30a.jpeg)
-
-## **Relation Scheme**
-[Back to top](#database-design-term-project)
-
-![Relation_Scheme FINAL](https://user-images.githubusercontent.com/38776199/143190147-9ab7dc03-d41c-434e-ba27-3aabbe571d8f.jpeg)
