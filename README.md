@@ -33,7 +33,7 @@ Created full implementation of database in Apache Derby with SQL.
 - Run the SQL files in the following order.
   - Data definition language (DDL):
   - $ `./create_table.sql`
-  - Data modification language (DML):
+  - Data manipulation language (DML):
   - $ `./final_dml.sql`
   - Test queries:
   - $ `./queries.sql`
